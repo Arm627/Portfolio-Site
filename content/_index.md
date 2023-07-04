@@ -67,13 +67,13 @@ sections:
               Responsibilities include:
 
               * ETL (Extract/Transform/Load) Pipeline
-                ** Implemented automated pre-processing of water flow data from remote servers
-                ** Performed statistical analysis on water flow data using Python
+                * Implemented automated pre-processing of water flow data from remote servers
+                * Performed statistical analysis on water flow data using Python
               * Database Design and Development
-                ** Designed and developed database schema and data tables in MySQL DBMS for internal tasks.
+                * Designed and developed database schema and data tables in MySQL DBMS for internal tasks.
               * Full Stack Web Development
-                ** Created a Flask dynamic web user interface for water flow visualization
-                ** Deployed the website to an AWS server using Docker
+                * Created a Flask dynamic web user interface for water flow visualization
+                * Deployed the website to an AWS server using Docker
 
         - title: Professor of Semiconductor Physics
           company: University X
