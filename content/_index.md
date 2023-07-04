@@ -57,7 +57,7 @@ sections:
         - title: Junior Data Engineer
           company: Southern California Coastal Water Research Project
           company_url: 'https://www.sccwrp.org/'
-          company_logo: sccwrp.jpg
+          company_logo: sccwrp
           location: California
           date_start: '2021-10-01'
           date_end: '2022-10-01'
