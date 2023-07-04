@@ -42,6 +42,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -53,19 +54,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+        - title: Junior Data Engineer
+          company: Southern California Coastal Water Research Project
+          company_url: 'https://www.sccwrp.org/'
+          company_logo: sccwrp
           location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          date_start: '2021-10-01'
+          date_end: '2022-10-01'
           description: |2-
+              Data engineer in the water quality technical team working on automation of data processing, cleaning, and analyzing tasks.
+
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * ETL (Extract/Transform/Load) Pipeline
+                ** Implemented automated pre-processing of water flow data from remote servers
+                ** Performed statistical analysis on water flow data using Python
+              * Database Design and Development
+                ** Designed and developed database schema and data tables in MySQL DBMS for internal tasks.
+              * Full Stack Web Development
+                ** Created a Flask dynamic web user interface for water flow visualization
+                ** Deployed the website to an AWS server using Docker
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
