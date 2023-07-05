@@ -75,14 +75,16 @@ sections:
                 * Created a Flask dynamic web user interface for water flow visualization
                 * Deployed the website to an AWS server using Docker
 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
+        - title: Data Science Internship
+          company: University of California, Irvine
+          company_url: 'https://uci.edu/'
+          company_logo: uci
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2022-06-01'
+          date_end: '2022-08-01'
+          description: |2-
+              * Exploring and modeling longitudinal data of patient symptom burden who suffer from Myeloproliferative neoplasms (MPN) cancer, with an assigned response to lifestyle changes
+
     design:
       columns: '2'
   - block: features
